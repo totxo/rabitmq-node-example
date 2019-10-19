@@ -11,7 +11,7 @@ $ npm install
 $ node consumer/index.js
 ```
 
-##### Terminal 1
+##### Terminal 2
 ```bash
 $ node publisher/index.js
 ```
